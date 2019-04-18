@@ -1,0 +1,138 @@
+body {
+  font-family: 'Montserrat', sans-serif !important;
+  padding-top: 160px;
+}
+
+.navbar {
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
+  background-color: white !important;
+  font-size: 16pt;
+}
+
+.logo {
+  width: 20%;
+  height: auto;
+  padding: 7px;
+}
+
+a:hover {
+  color: rgb(182,88,130) !important;
+}
+
+a {
+  color: rgb(96,44,94) !important;
+}
+
+.btn-primary:hover {
+  background-color: rgb(182,88,130) !important;
+  border-color: rgb(182,88,130) !important;
+  color: white !important;
+}
+
+.btn-primary {
+  background-color: rgb(96,44,94) !important;
+  border-color: rgb(96,44,94) !important;
+  color: white !important;
+}
+
+code {
+  color: rgba(121, 131, 140, 1.0) !important;
+}
+
+.footer a:hover {
+  color: rgb(182,88,130) !important;
+}
+
+.footer a {
+  color: rgb(182,88,130) !important;
+}
+
+p.text-muted {
+  color: rgba(174, 179, 184, 1.0) !important;
+  font-size: 10pt;
+}
+
+h1 {
+  color: rgba(73, 83, 91, 1.0) !important;
+  font-weight: bold;
+  font-size: 20pt;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h2 {
+  color: rgba(73, 83, 91, 1.0) !important;
+  font-weight: bold;
+  font-size: 16pt;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+h3 {
+  color: rgba(73, 83, 91, 1.0) !important;
+  font-weight: bold;
+  font-size: 14pt;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+caption {
+  color: rgba(121, 131, 140, 1.0) !important;
+}
+
+/*p {
+  color: rgba(121, 131, 140, 1.0) !important;
+}*/
+
+.table-striped>tbody>tr>td {
+  color: rgba(121, 131, 140, 1.0) !important;
+}
+
+.thead-cool-1 {
+  background-color: rgba(73, 83, 91, 0.9);
+}
+
+.bg-cool-1 /
+  background-color: rgb(73, 83, 91);
+}
+
+.thead-cool-2 {
+  background-color: rgba(121, 131, 140, 1.0);
+}
+
+.thead-cool-3 {
+  background-color: rgba(174, 179, 184, 1.0);
+}
+
+.thead-cool-4 {
+  background-color: rgba(209, 214, 220, 0.4);
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: rgba(186, 206, 231, 0.1);
+}
+
+.table-striped>thead>tr>th {
+  color: rgba(209, 214, 220, 1.0) !important;
+}
+
+.table-striped>tbody>tr>th {
+  color: rgba(121, 131, 140, 1.0) !important;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td,
+.table-striped>tbody>tr:nth-child(odd)>th {
+  background-color: rgba(209, 214, 220, 0.2) !important;
+}
+
+ul {
+  padding: 0;
+  margin-left: 1.75em;
+}
+
+.list-unstyled {
+  padding: 0;
+  margin-left: 0.75em;
+}
